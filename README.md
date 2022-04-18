@@ -23,6 +23,7 @@ This Github repository summarizes a curated list of **Backdoor Learning** resour
 - Mitigating the Backdoor Attack by Federated Filters for Industrial IoT Applications.
   [[link]](https://ieeexplore.ieee.org/document/9536411/)
   - Boyu Hou, Jiqiang Gao, Xiaojie Guo, Thar Baker, Ying Zhang, Yanlong Wen, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2021.
+  - 服务器端：简历攻击样本库；客户端：可以检测并清理
 
 - How to Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
@@ -35,10 +36,12 @@ This Github repository summarizes a curated list of **Backdoor Learning** resour
 - Defending Label Inference and Backdoor Attacks in Vertical Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2112.05409.pdf)
   - Yang Liu, Zhihao Yi, Yan Kang, Yuanqin He, Wenhan Liu, Tianyuan Zou, and Qiang Yang. *AAAI*, 2022.
+  - 垂直联邦学习
 
 - Stability-Based Analysis and Defense against Backdoor Attacks on Edge Computing Services.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9354927)
   - Yi Zhao, Ke Xu, Haiyang Wang, Bo Li, and Ruoxi Jia. *IEEE Network*, 2021.
+  - 研究dropout参数和后门攻击成功率
 
 - CRFL: Certifiably Robust Federated Learning against Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2106.08283.pdf)
@@ -55,10 +58,13 @@ This Github repository summarizes a curated list of **Backdoor Learning** resour
 - DBA: Distributed Backdoor Attacks against Federated Learning.
   [[pdf]](https://openreview.net/pdf?id=rkgyS0VFvr)
   - Chulin Xie, Keli Huang, Pinyu Chen, and Bo Li. *ICLR*, 2020.
+  - 分布式后门攻击
   
 - Defending Against Backdoors in Federated Learning with Robust Learning Rate.
   [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
   - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. *AAAI*, 2021.
+  - 基于调整每个学习参数的学习速率的聚合规则
+  - 问题：牺牲了隐私
 
 - PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion.
   [[pdf]](https://arxiv.org/pdf/2110.10926.pdf)
